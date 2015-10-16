@@ -5,3 +5,21 @@
 ![Image of Theia and Earth](http://vignette2.wikia.nocookie.net/speculativeevolution/images/8/8b/Planet_Sizes_%28Silent_Skies%29.png/revision/latest/scale-to-width-down/640?cb=20130730074324)
 
 > ##This is a block quote
+
+<html>
+<table>
+<tr>
+<th>Revision</th>
+<th>Date</th>
+<th>Author</th>
+<th>Notes</th>
+</tr>
+
+<tr>
+<td>1.1</td> <td></td> <td>Regina Hightower</td><td><li>Initial Version</td></tr>
+
+<tr>
+<td>1.0</td> <td></td> <td>Regina Hightower</td><td></td></tr>
+</table>
+</html>
+
